@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sys:home|Door43 (sys)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sys|d43-sys repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sys/archive/master.zip|d43-sys.zip]]
+
+**Recent Changes**
+{{changes>ns = sys}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sys|Ethnologue data]]
+
